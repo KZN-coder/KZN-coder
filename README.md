@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python ML/R<br>🎯 Goals: Create something that anyone will use<br>💼 Current job: Freelanсing</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python ML/R in university<br>🎯 Goals: Create something that anyone will use<br>💼 Current job: Freelanсing</p>
 
 ###
 
