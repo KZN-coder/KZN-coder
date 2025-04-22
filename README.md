@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Chatbot/Back-end Developer</h1>
+<h1 align="left">Hey 👋 I'm Back-end Developer</h1>
 
 ###
 
